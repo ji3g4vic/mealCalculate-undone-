@@ -13,6 +13,11 @@
 		2D05B2B329A5F6B6002AF4B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D05B2B129A5F6B6002AF4B1 /* Main.storyboard */; };
 		2D05B2B529A5F6B8002AF4B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D05B2B429A5F6B8002AF4B1 /* Assets.xcassets */; };
 		2D05B2B829A5F6B8002AF4B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D05B2B629A5F6B8002AF4B1 /* LaunchScreen.storyboard */; };
+		2D05B2C029AB08FF002AF4B1 /* peopleOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D05B2BF29AB08FF002AF4B1 /* peopleOneViewController.swift */; };
+		2D05B2C229AC5784002AF4B1 /* peopleTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D05B2C129AC5784002AF4B1 /* peopleTwoViewController.swift */; };
+		2D05B2C429AC57AF002AF4B1 /* peopleThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D05B2C329AC57AF002AF4B1 /* peopleThreeViewController.swift */; };
+		2D05B2C629AC57FF002AF4B1 /* peopleFourViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D05B2C529AC57FF002AF4B1 /* peopleFourViewController.swift */; };
+		2D05B2C829AC5838002AF4B1 /* peopleFiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D05B2C729AC5838002AF4B1 /* peopleFiveViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		2D05B2B429A5F6B8002AF4B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D05B2B729A5F6B8002AF4B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D05B2B929A5F6B8002AF4B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D05B2BF29AB08FF002AF4B1 /* peopleOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = peopleOneViewController.swift; sourceTree = "<group>"; };
+		2D05B2C129AC5784002AF4B1 /* peopleTwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = peopleTwoViewController.swift; sourceTree = "<group>"; };
+		2D05B2C329AC57AF002AF4B1 /* peopleThreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = peopleThreeViewController.swift; sourceTree = "<group>"; };
+		2D05B2C529AC57FF002AF4B1 /* peopleFourViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = peopleFourViewController.swift; sourceTree = "<group>"; };
+		2D05B2C729AC5838002AF4B1 /* peopleFiveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = peopleFiveViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +70,11 @@
 				2D05B2AD29A5F6B6002AF4B1 /* SceneDelegate.swift */,
 				2D05B2AF29A5F6B6002AF4B1 /* ViewController.swift */,
 				2D05B2B129A5F6B6002AF4B1 /* Main.storyboard */,
+				2D05B2C729AC5838002AF4B1 /* peopleFiveViewController.swift */,
+				2D05B2C529AC57FF002AF4B1 /* peopleFourViewController.swift */,
+				2D05B2C329AC57AF002AF4B1 /* peopleThreeViewController.swift */,
+				2D05B2C129AC5784002AF4B1 /* peopleTwoViewController.swift */,
+				2D05B2BF29AB08FF002AF4B1 /* peopleOneViewController.swift */,
 				2D05B2B429A5F6B8002AF4B1 /* Assets.xcassets */,
 				2D05B2B629A5F6B8002AF4B1 /* LaunchScreen.storyboard */,
 				2D05B2B929A5F6B8002AF4B1 /* Info.plist */,
@@ -140,7 +155,12 @@
 			files = (
 				2D05B2B029A5F6B6002AF4B1 /* ViewController.swift in Sources */,
 				2D05B2AC29A5F6B6002AF4B1 /* AppDelegate.swift in Sources */,
+				2D05B2C229AC5784002AF4B1 /* peopleTwoViewController.swift in Sources */,
+				2D05B2C029AB08FF002AF4B1 /* peopleOneViewController.swift in Sources */,
+				2D05B2C429AC57AF002AF4B1 /* peopleThreeViewController.swift in Sources */,
+				2D05B2C629AC57FF002AF4B1 /* peopleFourViewController.swift in Sources */,
 				2D05B2AE29A5F6B6002AF4B1 /* SceneDelegate.swift in Sources */,
+				2D05B2C829AC5838002AF4B1 /* peopleFiveViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
